@@ -96,5 +96,3 @@ Sigue los pasos a continuación para configurar y ejecutar el proyecto en tu má
 
 - Las recetas se muestran en la página principal. Haz clic en "View Details" para ver más información sobre una receta.
 - Los usuarios pueden eliminar sus propias recetas haciendo clic en el botón "Delete".
-
-¡Gracias por usar Recipe App! 🍽️
